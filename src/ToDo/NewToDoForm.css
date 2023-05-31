@@ -1,0 +1,39 @@
+.new-task-input {
+        margin-top: 20px;
+        margin-right: 10px;
+        width: 240px;
+        height: 30px;
+        padding-left: 10px;
+        background: #E8E8E8;
+        border: none;
+        box-shadow: 4px 4px 10px rgba(250, 250, 250, 0.5), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 10px;
+        font-weight: 400;
+        font-size: 18px;
+}
+
+.add-task-btn {
+    margin-top: 20px;
+    width: 60px;
+    height: 32px;
+    border: none;
+    background: #0D8AFF;
+    box-shadow: -3px -3px 5px rgba(254, 252, 252, 0.5), 3px 3px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25);
+}
+
+.add-task-btn:hover {
+    background-color: #87A2FB;
+}
+.add-task-btn:active {
+    background-color: #2192FF;
+}
+
